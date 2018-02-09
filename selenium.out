@@ -1,0 +1,12 @@
+2018-02-09 20:11:46 INFO  TestBase:162 - loading config.properties
+2018-02-09 20:11:46 INFO  TestBase:167 - loading or.properties
+2018-02-09 20:11:46 INFO  TestBase:174 - loading guru99.properties
+2018-02-09 20:11:46 INFO  TestBase:180 - loading automation Loginpage .properties
+2018-02-09 20:11:46 INFO  TestBase:186 - loading Magneto webSite properties
+2018-02-09 20:11:46 INFO  TestBase:192 - loading Myntra webSite properties
+2018-02-09 20:11:46 INFO  TestBase:198 - loading GoIbibo webSite properties
+2018-02-09 20:11:46 INFO  TestBase:111 -  System returen user.dir as /home/ankit/eclipse-workspace/MakeMyTrip
+2018-02-09 20:11:48 INFO  WaitHelper:31 - 20
+2018-02-09 20:11:48 INFO  WaitHelper:36 - 240
+2018-02-09 20:11:48 INFO  VerifyYouTubeFunctionality:20 - com.umbrella.MakeMyTrip.FunctionalTest.VerifyYouTubeFunctionality Method verifyYouTube  Get Started
+2018-02-09 20:11:58 INFO  VerifyYouTubeFunctionality:23 - ++++++++++++++++++++++++++Configure check MakeMytrip++++++++++++++++++++++++++++++

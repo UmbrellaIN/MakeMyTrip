@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name=" Functional Suite" duration-ms="13128" started-at="2018-02-09T14:41:46Z" finished-at="2018-02-09T14:41:59Z">
+    <groups>
+    </groups>
+    <test name="VerifyYouTubeFunctionality" duration-ms="13128" started-at="2018-02-09T14:41:46Z" finished-at="2018-02-09T14:41:59Z">
+      <class name="com.umbrella.MakeMyTrip.FunctionalTest.VerifyYouTubeFunctionality">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.umbrella.MakeMyTrip.FunctionalTest.VerifyYouTubeFunctionality@5e25a92e]" name="launchBrowser" is-config="true" duration-ms="1985" started-at="2018-02-09T20:11:46Z" finished-at="2018-02-09T20:11:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.umbrella.MakeMyTrip.FunctionalTest.VerifyYouTubeFunctionality@5e25a92e]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2018-02-09T20:11:48Z" finished-at="2018-02-09T20:11:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.umbrella.MakeMyTrip.FunctionalTest.VerifyYouTubeFunctionality.SkipAddTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="SkipAddTest()[pri:0, instance:com.umbrella.MakeMyTrip.FunctionalTest.VerifyYouTubeFunctionality@5e25a92e]" name="SkipAddTest" duration-ms="10757" started-at="2018-02-09T20:11:48Z" finished-at="2018-02-09T20:11:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SkipAddTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.umbrella.MakeMyTrip.FunctionalTest.VerifyYouTubeFunctionality@5e25a92e]" name="afterMethod" is-config="true" duration-ms="2" started-at="2018-02-09T20:11:58Z" finished-at="2018-02-09T20:11:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SkipAddTest status=SUCCESS method=VerifyYouTubeFunctionality.SkipAddTest()[pri:0, instance:com.umbrella.MakeMyTrip.FunctionalTest.VerifyYouTubeFunctionality@5e25a92e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.umbrella.MakeMyTrip.FunctionalTest.VerifyYouTubeFunctionality@5e25a92e]" name="endTest" is-config="true" duration-ms="349" started-at="2018-02-09T20:11:58Z" finished-at="2018-02-09T20:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.umbrella.MakeMyTrip.FunctionalTest.VerifyYouTubeFunctionality -->
+    </test> <!-- VerifyYouTubeFunctionality -->
+  </suite> <!--  Functional Suite -->
+  <suite name="Master test suite" duration-ms="0" started-at="2018-02-09T14:41:59Z" finished-at="2018-02-09T14:41:59Z">
+    <groups>
+    </groups>
+  </suite> <!-- Master test suite -->
+</testng-results>
