@@ -21,7 +21,6 @@ public class VerifyYouTubeFunctionality extends TestBase {
 		config = new Config(OR);
 		driver.get(config.getWebsite());
         log.info("++++++++++++++++++++++++++Configure check MakeMytrip++++++++++++++++++++++++++++++");
-        log.info("++++++++++++++++++++++++++Configure check MakeMytrip++++++++++++++++++++++++++++++");
 
 	}
 
